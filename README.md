@@ -1,0 +1,1 @@
+completed lab 1 by creating 3 files one to print hello world one to say bye instead one to upload the sample code i was given in the lab that capitalizes each letter in the word and prints it backwards and logging the changes into the local repository at each and every step, then i pused it to the online repository
